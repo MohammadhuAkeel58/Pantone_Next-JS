@@ -5,7 +5,7 @@ import "./globals.css";
 import Navbar from "./Components/Navbar";
 
 const patriot = localFont({
-  src: "./fonts/PatriotVF.otf",
+  src: "./fonts/patriotVF.otf",
   variable: "--font-patriot",
   weight: "100 200 300 400 500 600 700 800 900",
 });
